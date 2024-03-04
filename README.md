@@ -10,17 +10,6 @@ I'm Afrah, a passionate software engineer with a keen interest in the intersecti
 - **UI/UX Design**: Competent in creating intuitive interfaces that enhance gameplay and app usability.
 - **Problem Solving**: Excellent analytical skills with a knack for tackling complex problems with innovative solutions.
 
-## Education 🎓
-
-- Bachelor's Degree in Software Engineering
-- Specialized courses in Game Development
-- Various certifications in iOS Application Development
-
-## Hobbies & Interests 🌟
-
-- **Game Design**: Creating and modding games in my spare time, always exploring new storylines and gameplay mechanics.
-- **Tech Meetups**: Attending local and international conferences and meetups to stay updated on the latest trends in software and game development.
-- **Mentoring**: Helping aspiring developers to learn coding and game development through local community groups and online platforms.
 <!--
 **Afrah-saleh/Afrah-saleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
