@@ -1,6 +1,15 @@
 # Hi there 👋
-I'm Afrah, a passionate software engineer with a keen interest in the intersection of game development and iOS application creation. I love bringing ideas to life through code and thrive on the challenges that come with developing engaging games and robust iOS apps.
+I’m Afrah Bin Gubair, a passionate iOS Developer and Game Developer with a strong foundation in software engineering and a proven track record of delivering impactful projects. My expertise lies in iOS development, game mechanics, and crafting user-friendly designs, driven by a deep love for innovation and technology.
 
+## 🚀 About Me
+	•	🎓 Bachelor’s Degree in Software Engineering with First Class Honors (GPA: 3.95/4).
+	•	🏆 WWDC24 Distinguished Winner (Top 50): Recognized for Fin’s Adventure, an iOS game addressing ocean pollution.
+	•	🌟 Successfully published 3 apps on the App Store:
+	•	Wasillah: Financial planning for startups.
+	•	TinyTalks: Communication tool for kids with autism.
+	•	Fin’s Adventure: Educational game raising environmental awareness.
+	•	🥉 Placed 3rd in the GovJam Hackathon for an innovative governance technology solution.
+ 
 ## Skills 🛠️
 
 - **Programming Languages**: Proficient in Swift for iOS development, as well as C# for game development with Unity.
