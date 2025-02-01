@@ -30,23 +30,10 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 ## 🛠️ **Skills**
 
 ### **Languages**  
-![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=flat-square)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=flat-square) | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
 
 ### **Frameworks & Tools**  
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white&style=flat-square)  
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)  
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square)  
-![Core ML](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square)  
-![VisionKit](https://img.shields.io/badge/VisionKit-0078D6?logo=apple&logoColor=white&style=flat-square)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)  
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white&style=flat-square)  | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square) | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square) | ![Core ML](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square) | ![VisionKit](https://img.shields.io/badge/VisionKit-0078D6?logo=apple&logoColor=white&style=flat-square)  
 
 ### **Soft Skills**  
 - **Analytical Thinking**  
