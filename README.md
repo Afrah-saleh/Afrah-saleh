@@ -35,6 +35,7 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
+</p>
 
 ### **Frameworks & Tools**  
 <p align="left">
@@ -49,6 +50,7 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 ![Core ML](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square)  
 ![VisionKit](https://img.shields.io/badge/VisionKit-0078D6?logo=apple&logoColor=white&style=flat-square)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)  
+</p>
 
 ### **Soft Skills**  
 - **Analytical Thinking**  
