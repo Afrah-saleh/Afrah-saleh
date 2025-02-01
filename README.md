@@ -30,12 +30,14 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 ## 🛠️ **Skills**
 
 ### **Languages**  
+<p align="left">
 ![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=flat-square)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
 
 ### **Frameworks & Tools**  
+<p align="left">
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)  
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white&style=flat-square)  
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square)  
