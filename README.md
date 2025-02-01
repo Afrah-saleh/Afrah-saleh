@@ -43,10 +43,10 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)  
-![Notion]([https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square))  
-![Core ML]([https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square))  
-![VisionKit]([[https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square)](https://img.shields.io/badge/VisionKit-0078D6?logo=apple&logoColor=white&style=flat-square))  
-![GitHub]([[https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square)](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square))  
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square)  
+![Core ML](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square)  
+![VisionKit](https://img.shields.io/badge/VisionKit-0078D6?logo=apple&logoColor=white&style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)  
 
 ### **Soft Skills**  
 - **Analytical Thinking**  
