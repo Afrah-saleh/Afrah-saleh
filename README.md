@@ -30,7 +30,7 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 ## 🛠️ **Skills**
 
 ### **Languages**  
-![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=flat-square) | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=flat-square) | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)  | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square)  
 
 ### **Frameworks & Tools**  
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white&style=flat-square)  | ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square) | ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square) | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square) | ![Core ML](https://img.shields.io/badge/CoreML-007ACC?logo=apple&logoColor=white&style=flat-square) | ![VisionKit](https://img.shields.io/badge/VisionKit-0078D6?logo=apple&logoColor=white&style=flat-square)  
@@ -51,41 +51,15 @@ I enjoy blending creativity and functionality in my work, whether I’m building
 
 ---
 
-## 📱 **Featured Projects**
-
-### **Wasilah**  
-_A financial planning tool tailored for startup founders._  
-- **Tech Stack**: Swift, SwiftUI, Firebase  
-- Designed a clean, intuitive interface to simplify financial planning.  
-- [🔗 View Repository](#https://github.com/Afrah-saleh/Wasilaah)
-
----
-
-### **TinyTasks**  
-_A mobile app designed to assist children with autism._  
-- **Tech Stack**: Core ML, VisionKit, Swift  
-- Integrated AI-powered features to provide tailored assistance for children.  
-- [🔗 View Repository](#https://github.com/Afrah-saleh/TinyTalks)
-
----
-
-### **Fin’s Adventure**  
-_An award-winning iOS game recognized at WWDC._  
-- **Tech Stack**: SpriteKit, Swift  
-- Built an immersive gameplay experience with engaging storylines and mechanics.  
-- [🔗 View Repository](#https://github.com/Afrah-saleh/Fin-s-Adventure)
-
----
-
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afrah-saleh&show_icons=true&theme=radical" alt="Afrah's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afrah-saleh&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afrah-saleh&show_icons=true&theme=radical&cache_seconds=1800" alt="Afrah's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afrah-saleh&theme=radical&cache_seconds=1800" alt="GitHub Streak" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrah-saleh&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrah-saleh&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="48%">
 </div>
 
 ---
