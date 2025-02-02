@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Afrah Bin Gubair!  
 
-### 🚀 *iOS Developer  | Front-End Developer | Game Developer*  
+### 🚀 *iOS Developer  | Front-End Developer
 I’m a passionate **Software Engineer** with a strong focus on **iOS development**, **game mechanics**, and **UI/UX design**. With a **WWDC24 Top 50 Winner** title and a proven track record of delivering innovative, user-centered solutions, I thrive on crafting impactful applications and games that solve real-world challenges.
 
 ---
